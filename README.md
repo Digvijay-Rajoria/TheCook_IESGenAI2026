@@ -66,7 +66,7 @@ Click the **Open in Colab** badge above. The demo notebook loads pretrained weig
 
 ```bash
 git clone https://github.com/Digvijay-Rajoria/TheCook_IESGenAI2026.git
-cd TheCook
+cd TheCook_IESGenAI2026
 pip install -r requirements.txt
 ```
 
