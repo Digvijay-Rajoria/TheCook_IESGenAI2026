@@ -159,4 +159,3 @@ If you use this work, please cite:
 
 This work was developed as part of the **IEEE IES Generative AI Challenge 2026**, shortlisted from 575 teams across 57 countries. We thank the IEEE Industrial Electronics Society and the hackathon leadership (Daswin De Silva, Lakshitha Gunasekara) for their support.
 
-AI-assisted writing tools were used during manuscript preparation for language refinement and LaTeX formatting.
